@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @SEMAJdev
-- 🌱 I’m currently learning Font-End & Back-End
+- 🌱 I’m currently learning mobile application development with flutter.
